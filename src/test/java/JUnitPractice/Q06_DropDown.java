@@ -2,7 +2,6 @@ package JUnitPractice;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.junit.AfterClass;
-import org.junit.Assert;
 import org.junit.BeforeClass;
 import org.junit.Test;
 import org.openqa.selenium.By;
@@ -15,7 +14,7 @@ import org.openqa.selenium.support.ui.Select;
 import java.time.Duration;
 import java.util.List;
 
-public class Q6 {
+public class Q06_DropDown {
     /*
       ...Exercise6...
    // 1. Amazon.com'a gidelim.

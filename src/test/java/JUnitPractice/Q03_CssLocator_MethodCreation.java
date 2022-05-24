@@ -2,7 +2,6 @@ package JUnitPractice;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.junit.AfterClass;
-import org.junit.Before;
 import org.junit.BeforeClass;
 import org.junit.Test;
 import org.openqa.selenium.By;
@@ -11,9 +10,8 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 import java.time.Duration;
-import java.util.List;
 
-public class Q4 {
+public class Q03_CssLocator_MethodCreation {
 
     /*
      ...Exercise3...
